@@ -2,58 +2,56 @@
 
 <div style="text-align:center"><em>Technology's future begins in today's classrooms!</em></div>
 
-The [Office for Women in Engineering, Recruitment, Civic Engagement and K-12 Outreach](https://www.egr.msu.edu/wie/) and the [Department of Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://www.msu.edu/) are committed to empowering the next generation of leaders in technology through K-12 outreach.
+The [Office for Broadening Participation K-12 Outreach](https://engineering.msu.edu/about/inclusion-diversity/broadening-participation-k-12) and the [Department of Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://www.msu.edu/) are committed to empowering the next generation of leaders in technology through K-12 outreach.
 
 ## Mission
 
-We aim to broaden participation in computer science among K-12 students in Michigan and beyond. By engaging K-12 students in face-to-face and virtual programs led by near-peer university student mentors, we aim to build excitement across the rapidly growing fields of information technology, data science and software engineering.
+We aim to broaden participation in computer science among K-12 students in Michigan and beyond. By engaging K-12 students in face-to-face and virtual programs led by near-peer university student mentors, we aim to build excitement across the rapidly growing fields of information technology, data science, and software engineering.
 
-In particular, we aim to remove the many barriers to entry in computer science which disproportionately affect female- and LGBTQIA+-identifying, Black, Latinx, Native American and socioeconomically underprivileged individuals.
-
-In achieving its goals, the Office for Women in Engineering, Recruitment and K-12 Outreach does not unlawfully
-discriminate. All events and programs are open to students of all genders.
-
+In particular, we aim to remove the many barriers to entry in technological fields that disproportionately affect students who belong to Black, Latinx, Native American, and underserved communities or who identify as female or LGBTQIA+.
 
 ## Programs
 
-Learn more about the various outreach programs we offer.
+Learn more about our many technology programs (past and present):
 
-- Fall
-  - [Technovation](http://technovation.cadl.org/)
-    - Saturday mornings (10 am - noon). Typically 10 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
-    - Next iteration: Fall 2024.
-    - Registration opens: July 2023.
-    - Offered in-person at the Downtown Branch of the Capital Area District Libraries and remote in Detroit and All Michigan. 
-- Spring
-  - [Spartan Girls Who Code](https://www.spartangwc.org/)
-    - Saturday mornings (10 am - noon). Typically 10 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
-    - Next iteration: Spring 2023.
-    - Registration opens: November 2022.
-    - Offered remote throughout Michigan and in-person on the MSU Campus to residents of the Greater Lansing Area
-  - [MSU x PathLight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
-    - Saturday mornings (10 am - 11:30 am Belize Time). Typically 10 meetings scheduled to avoid the MSU spring breaks.
-    - Next iteration: January 2023.
-    - Registration opens: November 2022.
-    - Offered virtually from East Lansing.
-    - A handful of MSU Lead Mentors visit Belize in May to meet coders in person and hold award ceremonies and workshops.
-- Summer
-  - Girls in Computing Summer Camp
-    - Next iteration: Summer 2023
-    - Registration open: May 2023
-    - Offered virtually from East Lansing
+
+- [Technovation](http://technovation.cadl.org/)
+  - Saturday mornings (10 am - noon). Typically 8--10 meetings in fall semesters, scheduled to avoid the Michigan Public School and Michigan State University spring breaks.
+  - Next iteration: Fall 2025.
+  - Registration opens: July 2025.
+  - Offered in-person at the Downtown Branch of the Capital Area District Libraries or the Foster Community Center and remote in All Michigan. 
+- [Spartan Girls Who Code](https://www.spartangwc.org/)
+  - Saturday mornings (10:30 am - noon). Typically 8---10 meetings in spring semesters, scheduled to avoid the Michigan Public School and Michigan State University spring breaks.
+  - Next iteration: Spring 2024.
+  - Registration opens: November 2023.
+  - Offered remotely throughout Michigan and in-person on the MSU Campus to residents of the Greater Lansing Area
+- [MSU x PathLight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
+  - Saturday mornings (10 am - 11:30 am Belize Time). Typically 8--10 meetings, scheduled to avoid the MSU spring breaks. 
+  - Next iteration: TBD. (Last offered: fall 2023)
+  - Registration opens: TBD.
+  - Offered virtually from East Lansing.
+  - Several MSU Lead Mentors visit Belize in May to meet coders in person and hold award ceremonies and workshops.
+- [MSU x YAF Ghana Coding Clubs]
+   - Offered remotely to pre-college teens in Ghana associated with the [Young Achievers Foundation Ghana](https:///www.yafghana.org)
+   - Saturday mornings (10: am - noon) EST. Typically 8--10 meetings, scheduled to avoid the MSU spring breaks.
+   - Next iteration: TBD. (Last offered: spring 2024)
+   - Registration opens: TBD.
+- Girls in Computing Summer Camp
+  - One-week summer program
+  - Next iteration: Summer 2025
+  - Registration open: May 2025
+  - Offered virtually from East Lansing
 
 ## Team
 
 Our outreach programs are led by undergraduate students under the supervision of MSU faculty, staff, and graduate students.
 
 - Faculty & Staff
-  - [Teresa Isela Vandersloot, Director of Women in Engineering and K-12 Outreach, College of Engineering](https://www.egr.msu.edu/people/profile/iselava1)
+  - [Teresa Isela Vandersloot, Director of Broadening Participation K-12 Outreach, College of Engineering](https://www.egr.msu.edu/people/profile/iselava1)
   - [Laura Dillon, Professor Emeritus, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/ldillon)
-  - [Yann-Meing Law, Assistant Professor, Comp. Mathematics, Science, and Engineering](https://cmse.msu.edu/directory/faculty/yann-meing-law/)
   - [Emily Dolson, Assistant Professor, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/dolsonem)
   - [Joshua Nahum, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/nahum)
   - [Sebnem Onsay, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/onsayse)
-  - [Phil Sands, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/phil)
   - [Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/wulfekuh)
   - [Imen Zaabar, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/zaabarim)
 
@@ -69,7 +67,7 @@ We are happy to acknowledge the following sponsors for their generous support:
 
 ## Donate
 
-If funding permits, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in fall 2024 and spring 2025. We are also hoping to offer international clubs with a partner in Turkey in the coming year.
+If funding permits, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in spring 2025 and fall 2026. 
 
 Your tax deductible gift will help sustain our current clubs and make these additional clubs possible! Ask your employer if they have a matching program to potentially double the impact of your gift!!
 

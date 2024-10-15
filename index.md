@@ -31,7 +31,7 @@ Learn more about our many technology programs (past and present):
   - Registration opens: TBD.
   - Offered virtually from East Lansing.
   - Several MSU Lead Mentors visit Belize in May to meet coders in person and hold award ceremonies and workshops.
-- [MSU x YAF Ghana Coding Clubs]
+- MSU x YAF Ghana Coding Clubs
    - Offered remotely to pre-college teens in Ghana associated with the [Young Achievers Foundation Ghana](https:///www.yafghana.org)
    - Saturday mornings (10: am - noon) EST. Typically 8--10 meetings, scheduled to avoid the MSU spring breaks.
    - Next iteration: TBD. (Last offered: spring 2024)

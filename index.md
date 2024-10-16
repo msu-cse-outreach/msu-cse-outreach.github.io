@@ -6,36 +6,36 @@ The [Office for Broadening Participation K-12 Outreach](https://engineering.msu.
 
 ## Mission
 
-We aim to broaden participation in computer science among K-12 students in Michigan and beyond. By engaging K-12 students in face-to-face and virtual programs led by near-peer university student mentors, we aim to build excitement across the rapidly growing fields of information technology, data science, and software engineering.
+We aim to broaden participation in computer science among K-12 students in Michigan and beyond. Near-peer university-student mentors engage K-12 students in face-to-face and virtual programs to build excitement around the rapidly growing fields of information technology, data science, and software engineering.
 
-In particular, we aim to remove the many barriers to entry in technological fields that disproportionately affect students who belong to Black, Latinx, Native American, and underserved communities or who identify as female or LGBTQIA+.
+In particular, we work to reduce barriers to entry in technological fields that disproportionately affect students who belong to Black, Latinx, Native American, and underserved communities or who identify as female or LGBTQIA+.
 
 ## Programs
 
-Learn more about our many technology programs (past and present):
+Learn more about our many technology programs:
 
 
 - [Technovation](http://technovation.cadl.org/)
   - Saturday mornings (10 am - noon). Typically 8--10 meetings in fall semesters, scheduled to avoid the Michigan Public School and Michigan State University spring breaks.
   - Next iteration: Fall 2025.
   - Registration opens: July 2025.
-  - Offered in-person at the Downtown Branch of the Capital Area District Libraries or the Foster Community Center and remote in All Michigan. 
+  - Offered in-person at the Downtown Branch of the Capital Area District Libraries or the Foster Community Center and remotely. 
 - [Spartan Girls Who Code](https://www.spartangwc.org/)
-  - Saturday mornings (10:30 am - noon). Typically 8---10 meetings in spring semesters, scheduled to avoid the Michigan Public School and Michigan State University spring breaks.
+  - Saturday mornings (10:30 am - noon). Typically 8--10 meetings in spring semesters, scheduled to avoid the Michigan Public School and Michigan State University spring breaks.
   - Next iteration: Spring 2024.
   - Registration opens: November 2023.
   - Offered remotely throughout Michigan and in-person on the MSU Campus to residents of the Greater Lansing Area
 - [MSU x PathLight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
   - Saturday mornings (10 am - 11:30 am Belize Time). Typically 8--10 meetings, scheduled to avoid the MSU spring breaks. 
-  - Next iteration: TBD. (Last offered: fall 2023)
+  - Next iteration: TBD. (Last offered: Fall 2023)
   - Registration opens: TBD.
-  - Offered virtually from East Lansing.
+  - Offered virtually to Belizean students in Fourth Form associated with PathLight Belize, Inc.
   - Several MSU Lead Mentors visit Belize in May to meet coders in person and hold award ceremonies and workshops.
-- MSU x YAF Ghana Coding Clubs
-   - Offered remotely to pre-college teens in Ghana associated with the [Young Achievers Foundation Ghana](https:///www.yafghana.org)
-   - Saturday mornings (10: am - noon) EST. Typically 8--10 meetings, scheduled to avoid the MSU spring breaks.
-   - Next iteration: TBD. (Last offered: spring 2024)
+- MSU x YAFGHANA Coding Clubs
+   - Saturday mornings (10: am - noon EST). Typically 8--10 meetings, scheduled to avoid the MSU spring breaks.
+   - Next iteration: TBD. (Last offered: Spring 2024)
    - Registration opens: TBD.
+   - Offered virtually to pre-college teens in Ghana associated with the [Young Achievers Foundation Ghana](https://www.facebook.com/yafghana/)
 - Girls in Computing Summer Camp
   - One-week summer program
   - Next iteration: Summer 2025
@@ -48,12 +48,13 @@ Our outreach programs are led by undergraduate students under the supervision of
 
 - Faculty & Staff
   - [Teresa Isela Vandersloot, Director of Broadening Participation K-12 Outreach, College of Engineering](https://www.egr.msu.edu/people/profile/iselava1)
-  - [Laura Dillon, Professor Emeritus, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/ldillon)
-  - [Emily Dolson, Assistant Professor, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/dolsonem)
-  - [Joshua Nahum, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/nahum)
-  - [Sebnem Onsay, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/onsayse)
-  - [Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/wulfekuh)
-  - [Imen Zaabar, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/zaabarim)
+  - [Laura Dillon, Professor Emeritus, Computer Science and Engineering](https://www.cse.msu.edu/~ldillon/)
+  - [Emily Dolson, Assistant Professor, Computer Science and Engineering](https://www.cse.msu.edu/~dolsonem/)
+  - [Joshua Nahum, Teaching Specialist, Computer Science and Engineering](https://engineering.msu.edu/faculty/Joshua-Nahum)
+  - [Sebnem Onsay, Teaching Specialist, Computer Science and Engineering](https://engineering.msu.edu/faculty/Sebnem-Onsay)
+  - [Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering](https://engineering.msu.edu/faculty/Marilyn-Wulfekuhler)
+  - [Imen Zaabar, Teaching Specialist, Computer Science and Engineering](https://engineering.msu.edu/faculty/Imen-Zaabar)
+  - [Yolanda Anderson, Teaching Specialist, Computer Science and Engineering](https://engineering.msu.edu/faculty/Yolanda-Anderson)
 
 ## Donors
 
@@ -61,10 +62,10 @@ We are happy to acknowledge the following donors for their generous support:
 
 - [Ford](https://www.ford.com/)
 - [Techsmith](https://www.techsmith.com/)
-- [PathLight International](https://PathLight.org/)
-- [YAFGhana](https:///www.yafghana.org)
 - [IEEE Computer Society](https://tc.computer.org/tcse/): MSU x PathLight Coding Clubs (Spring 2022)
 - [ACM Special Interest Group in Software Engineering](https://www.sigsoft.org/): MSU x PathLight Coding Clubs (Spring 2022)
+- [PathLight International](https://PathLight.org/)
+- [YAFGhana](https://www.facebook.com/yafghana/)
 - George and Ida Stockman
 - Laura Dillon
 

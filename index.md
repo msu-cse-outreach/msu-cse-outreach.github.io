@@ -1,4 +1,4 @@
-# MSU Spartan Coding Clubs (SPARCC)
+# <div style="text-align:center>MSU Spartan Coding Clubs (SPARCC)</div>
 
 <div style="text-align:center"><em>Technology's future begins in today's classrooms!</em></div>
 
@@ -6,9 +6,9 @@ The [Office for Broadening Participation K-12 Outreach](https://engineering.msu.
 
 ## Mission
 
-We aim to broaden participation in computer science among K-12 students in Michigan and beyond. Near-peer university-student mentors engage K-12 students in face-to-face and virtual programs to build excitement around the rapidly growing fields of information technology, data science, and software engineering.
+We aim to broaden participation in computing and engineering among K-12 students in Michigan and beyond. Near-peer university-student mentors engage K-12 students in face-to-face and virtual programs to build excitement around the rapidly growing fields of information technology, data science, and software engineering and confidence in their ability to learn.
 
-In particular, we work to reduce barriers to entry in technological fields that disproportionately affect students who belong to Black, Latinx, Native American, and underserved communities or who identify as female or LGBTQIA+.
+We work to reduce barriers to entry in these fields that disproportionately affect students with roots in Black, Latinx, Native American, or underserved communities or who identify as female or LGBTQIA+.
 
 ## Programs
 
@@ -47,7 +47,7 @@ Learn more about our many technology programs:
 Our outreach programs are led by undergraduate students under the supervision of MSU faculty, staff, and graduate students.
 
 - Faculty & Staff
-  - [Teresa Isela Vandersloot, Director of Broadening Participation K-12 Outreach, College of Engineering](https://www.egr.msu.edu/people/profile/iselava1)
+  - [Teresa Isela Vandersloot, Director of Broadening Participation K-12 Outreach, College of Engineering](https://engineering.msu.edu/faculty/Teresa-VanderSloot)
   - [Laura Dillon, Professor Emeritus, Computer Science and Engineering](https://www.cse.msu.edu/~ldillon/)
   - [Emily Dolson, Assistant Professor, Computer Science and Engineering](https://www.cse.msu.edu/~dolsonem/)
   - [Joshua Nahum, Teaching Specialist, Computer Science and Engineering](https://engineering.msu.edu/faculty/Joshua-Nahum)

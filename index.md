@@ -1,4 +1,4 @@
-# <div style="text-align:center>MSU Spartan Coding Clubs (SPARCC)</div>
+# MSU Spartan Coding Clubs (SPARCC)
 
 <div style="text-align:center"><em>Technology's future begins in today's classrooms!</em></div>
 

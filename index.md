@@ -6,9 +6,9 @@ The [Office for Broadening Participation K-12 Outreach](https://engineering.msu.
 
 ## Mission
 
-We aim to broaden participation in computing and engineering among K-12 students in Michigan and beyond. Near-peer university-student mentors engage K-12 students in face-to-face and virtual programs to build excitement around the rapidly growing fields of information technology, data science, and software engineering and confidence in their ability to learn.
+We aim to broaden participation in computing and engineering among K-12 students in Michigan and beyond. Near-peer university-student mentors engage K-12 students in face-to-face and virtual programs to build excitement around the rapidly growing fields of information technology, data science, and software engineering and to equip them with the skills and confidence.
 
-We work to reduce barriers to entry in these fields that disproportionately affect students with roots in Black, Latinx, Native American, or underserved communities or who identify as female or LGBTQIA+.
+We work to reduce barriers to entry in these fields that disproportionately affect Black, Latine, Native American, and underserved communities, women, and members of LGBTQIA+ communities.
 
 ## Programs
 

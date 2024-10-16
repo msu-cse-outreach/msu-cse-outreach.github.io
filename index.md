@@ -55,19 +55,22 @@ Our outreach programs are led by undergraduate students under the supervision of
   - [Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/wulfekuh)
   - [Imen Zaabar, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/zaabarim)
 
-## Sponsors
+## Donors
 
-We are happy to acknowledge the following sponsors for their generous support:
+We are happy to acknowledge the following donors for their generous support:
 
-- [Ford](https://www.ford.com/): Spartan Girls Who Code (Fall 2021 &mdash; Spring 2023)
-- [PathLight International](https://PathLight.org/): MSU x PathLight Coding Clubs (Spring 2022, Spring 2023)
+- [Ford](https://www.ford.com/)
+- [Techsmith](https://www.techsmith.com/)
+- [PathLight International](https://PathLight.org/)
+- [YAFGhana](https:///www.yafghana.org)
 - [IEEE Computer Society](https://tc.computer.org/tcse/): MSU x PathLight Coding Clubs (Spring 2022)
 - [ACM Special Interest Group in Software Engineering](https://www.sigsoft.org/): MSU x PathLight Coding Clubs (Spring 2022)
-- Laura Dillon, MSU x PathLight Coding Clubs (Spring 2022)
+- George and Ida Stockman
+- Laura Dillon
 
 ## Donate
 
-If funding permits, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in spring 2025 and fall 2026. 
+If funding permits, we will partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in spring 2025 and fall 2026. 
 
 Your tax deductible gift will help sustain our current clubs and make these additional clubs possible! Ask your employer if they have a matching program to potentially double the impact of your gift!!
 
